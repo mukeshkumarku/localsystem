@@ -1,0 +1,33 @@
+
+$ git config --global user.email "[email address]"
+$ git config --global user.email "[mukesh.ssvm@gmail.com]"
+
+$ git config --global user.name "[name]"
+$ git config --global user.name "[mukesh]"
+
+$ git init
+$ git add -A
+$ git status
+$ git commit -m "msg.."
+$ git remote add origin repoName
+$ git remote add origin https://github.com/mukeshkumarku/codeigniterproject.git
+$ git push origin master
+$ git clone repoName
+$ git clone https://github.com/mukeshkumarku/codeigniterproject.git
+$ git pull origin master
+
+
+
+After all processing mention on the above.
+
+file added on the repositoy
+
+$ git init
+$ git status
+$ git add -A                 |   
+$ git commit -m "msg.."      |
+$ git push origin master     |
+
+file copy in folder by repositoy
+$ git clone repoName
+$ git clone https://github.com/mukeshkumarku/codeigniterproject.git
